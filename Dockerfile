@@ -15,6 +15,5 @@ COPY . /gfootball
 RUN cd /gfootball && python3 -m pip install .
 WORKDIR '/gfootball'
 
-# ein Fix (Test)
-# Mergekonflikt (künstlich)
+# ein Fix!
 
