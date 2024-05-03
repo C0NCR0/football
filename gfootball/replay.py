@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# TEST TEST
 
 """Script allowing to replay a given trace file.
    Example usage:
